@@ -1,0 +1,55 @@
+.header p {
+	color: black;
+	display: inline;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 12px;
+	font-stretch: extra-expanded;
+}
+
+
+td {
+	line-height: 0.3;
+	padding: 0;
+	margin-top: 0;
+	transform:rotate(-180deg);
+}
+
+.header {
+	text-align: right;
+	margin-right: 23px;
+}
+
+.h5 {
+	padding-top: 14px;
+
+}
+
+table {
+	display: inline;
+	margin-bottom: 10px;
+}
+
+.central {
+	margin-top: 150px;
+	text-align: center;
+}
+.central li, h3, p, ul {
+	display: inline;
+}
+
+.central div {
+	margin: 30px 0px 30px 0px;
+}
+
+form {
+	margin: 15px;
+}
+
+p {
+	font-family: arial;
+	font-style: normal;
+	margin: 10px;
+	font-size: 10;
+
+}
